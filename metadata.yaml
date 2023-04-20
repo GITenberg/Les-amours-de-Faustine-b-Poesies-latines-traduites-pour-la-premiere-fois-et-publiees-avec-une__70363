@@ -1,0 +1,50 @@
+_repo: Les-amours-de-Faustine-b-Poesies-latines-traduites-pour-la-premiere-fois-et-publiees-avec-une__70363
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sandre, Thierry
+    aliases:
+    - Moulie, Charles
+    - Moulié, Charles
+    birthdate: 1890
+    deathdate: 1950
+    gutenberg_agent_id: '52873'
+    url: http://www.gutenberg.org/2009/agents/52873
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Thierry_Sandre
+    - https://fr.wikipedia.org/wiki/Thierry_Sandre
+creator:
+  author:
+    agent_name: Du Bellay, Joachim
+    aliases:
+    - Bellay, Joachim du
+    - Bellay, I. Du
+    deathdate: 1560
+    gutenberg_agent_id: '55731'
+    url: http://www.gutenberg.org/2009/agents/55731
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joachim_du_Bellay
+    - https://fr.wikipedia.org/wiki/Joachim_du_Bellay
+description: Versions of a part of the author's collection Poëmata.
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70363'
+language: fr
+pgterms:marc904: https://archive.org/details/lesamoursdefaust00dubeuoft
+pgterms:marc905: 20211204134020dubellay
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aFrance :$bEdgar Malfère, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Latin poetry, Medieval and modern -- Translations into French'
+- !lcc 'PQ'
+- GITenberg
+title: 'Les amours de Faustine : $b Poésies latines traduites pour la première fois
+  et publiées avec une introduction et des notes par Thierry Sandre'
+url: http://www.gutenberg.org/ebooks/70363
