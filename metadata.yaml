@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Thierry_Sandre
     - https://fr.wikipedia.org/wiki/Thierry_Sandre
+covers:
+- cover_type: archival
+  image_path: 70363-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Bellay, Joachim
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Joachim_du_Bellay
     - https://fr.wikipedia.org/wiki/Joachim_du_Bellay
 description: Versions of a part of the author's collection Poëmata.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70363#Les-amours-de-Faustine-b-Poesies-latines-traduites-pour-la-premiere-fois-et-publiees-avec-une_
 gutenberg_issued: '2023-03-24'
 identifiers:
   gutenberg: '70363'
